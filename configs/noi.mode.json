@@ -10,12 +10,6 @@
       "text": "AI"
     },
     {
-      "id": "noi@dev",
-      "parent": 0,
-      "dir": true,
-      "text": "Dev"
-    },
-    {
       "id": "noi@community",
       "parent": 0,
       "dir": true,
