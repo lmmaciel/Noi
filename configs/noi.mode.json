@@ -148,6 +148,12 @@
       "url": "https://you.com"
     },
     {
+      "id": "noi:midjourney",
+      "parent": "noi@ai",
+      "text": "Midjourney",
+      "url": "https://www.midjourney.com"
+    },    
+    {
       "id": "noi:suno",
       "parent": "noi@ai",
       "text": "Suno AI",
